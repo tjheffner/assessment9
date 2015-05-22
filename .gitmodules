@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/cipher"]
+	path = sites/all/modules/cipher
+	url = https://github.com/tjheffner/cipher.git
